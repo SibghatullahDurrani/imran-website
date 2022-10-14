@@ -1,0 +1,6 @@
+.upload-label,.done-label{
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+}
+form#upload-form input[type="submit"] { display: none;}

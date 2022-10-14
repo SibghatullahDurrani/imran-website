@@ -1,0 +1,9 @@
+HTML,
+body {
+  margin: none;
+  padding: none;
+}
+
+.dropdown-items {
+  display: none;
+}
